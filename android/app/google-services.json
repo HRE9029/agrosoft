@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927203816352",
+    "project_id": "agrosoft-3d8d2",
+    "storage_bucket": "agrosoft-3d8d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927203816352:android:f4b34430e1f65613b9eac5",
+        "android_client_info": {
+          "package_name": "com.example.agrosoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927203816352-f42iui6nf1jiq2ksngthm6q9rcgs010m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs34tLSJ_ZqsB4Nc_hISEMeMtpYSYIiLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927203816352-f42iui6nf1jiq2ksngthm6q9rcgs010m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
